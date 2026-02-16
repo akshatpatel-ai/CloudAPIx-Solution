@@ -111,7 +111,7 @@ We are building a remote-first, high-performance team of engineers, designers, a
 
 If you're passionate about intelligent systems and scalable architecture:
 
-📩 [cloudapix.gmail.com](mailto:cloudapix.gmail.com)
+📩 [cloudapix@gmail.com](mailto:cloudapix@gmail.com)
 
 ---
 
